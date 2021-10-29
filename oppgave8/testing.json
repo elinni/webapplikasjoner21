@@ -1,0 +1,84 @@
+"questions": [
+    {
+      "title": "Hvorfor bør man organisere tester?",
+      "answers": [
+        { "answere": "Fordi det er et krav" },
+        {
+          "answere": "Fordi det ser penere ut"
+        },
+        {
+          "answere": "Organisering er ikke nødvendig"
+        },
+        {
+          "answere": "For å få bedre oversiktlighet, og vite nøyaktig hva som for feiler",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Ved å ha for store tester for hele systemer, og noe feiler, er det vanskelig å vite hva som feiler."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Hva kjennetegner 'fakes'?",
+      "answers": [
+        { "answere": "Fakes kjører funksjoner med konstruerte data. Det samme gjør mocks." },
+        {
+          "answere": "Med fakes testes applikasjonen manuelt, mens mocks tester applikasjonen for oss."
+        },
+        {
+          "answere": "Du må bruke fakes når du skriver tester"
+        },
+        {
+          "answere": "Fakes tillater å kopiere funksjonaliteten til en ekte implementasjon, men at man endrer implementasjonen til være raskere og kreve mindre oppsett",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Ikke det samme som mocks, du kan kopiere en funksjonalitet til implementasjoner - men det forenkles"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Hvilket er det vanligste reserverte ordet brukes i en valideringsfunksjon i Jest?",
+      "answers": [
+        { "answere": "toBe" },
+        {
+          "answere": "toResolve"
+        },
+        {
+          "answere": "test"
+        },
+        {
+          "answere": "expect",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Funksjonen skal beskrive hva som er forventet tilstand."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Hva gjør et msw(mock service worker)?",
+      "answers": [
+        { "answere": "Et bibliotek for å styre hva utfallet av et api kall" },
+        {
+          "answere": "Brukes ved å lage en falsk api server"
+        },
+        {
+          "answere": "Hjelper å gjøre tester raskere"
+        },
+        {
+          "answere": "Alle de nevte svarene",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "msw gir oss er muligheten til å lage en "falsk" api server slik at vi kan bestemme utfallet at api kall."
+      }
+    }
+  ]
