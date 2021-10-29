@@ -78,7 +78,7 @@
         }
       ],
       "helper": {
-        "text": "msw gir oss er muligheten til å lage en "falsk" api server slik at vi kan bestemme utfallet at api kall."
+        "text": "msw gir oss er muligheten til å lage en 'falsk' api server slik at vi kan bestemme utfallet at api kall."
       }
     }
   ]
