@@ -2,15 +2,15 @@
     {
       "title": "Hvorfor bør man organisere tester?",
       "answers": [
-        { "answere": "Fordi det er et krav" },
+        { "answer": "Fordi det er et krav" },
         {
-          "answere": "Fordi det ser penere ut"
+          "answer": "Fordi det ser penere ut"
         },
         {
-          "answere": "Organisering er ikke nødvendig"
+          "answer": "Organisering er ikke nødvendig"
         },
         {
-          "answere": "For å få bedre oversiktlighet, og vite nøyaktig hva som for feiler",
+          "answer": "For å få bedre oversiktlighet, og vite nøyaktig hva som for feiler",
           "correct": true
         }
       ],
@@ -23,15 +23,15 @@
     {
       "title": "Hva kjennetegner 'fakes'?",
       "answers": [
-        { "answere": "Fakes kjører funksjoner med konstruerte data. Det samme gjør mocks." },
+        { "answer": "Fakes kjører funksjoner med konstruerte data. Det samme gjør mocks." },
         {
-          "answere": "Med fakes testes applikasjonen manuelt, mens mocks tester applikasjonen for oss."
+          "answer": "Med fakes testes applikasjonen manuelt, mens mocks tester applikasjonen for oss."
         },
         {
-          "answere": "Du må bruke fakes når du skriver tester"
+          "answer": "Du må bruke fakes når du skriver tester"
         },
         {
-          "answere": "Fakes tillater å kopiere funksjonaliteten til en ekte implementasjon, men at man endrer implementasjonen til være raskere og kreve mindre oppsett",
+          "answer": "Fakes tillater å kopiere funksjonaliteten til en ekte implementasjon, men at man endrer implementasjonen til være raskere og kreve mindre oppsett",
           "correct": true
         }
       ],
@@ -44,15 +44,15 @@
     {
       "title": "Hvilket er det vanligste reserverte ordet brukes i en valideringsfunksjon i Jest?",
       "answers": [
-        { "answere": "toBe" },
+        { "answer": "toBe" },
         {
-          "answere": "toResolve"
+          "answer": "toResolve"
         },
         {
-          "answere": "test"
+          "answer": "test"
         },
         {
-          "answere": "expect",
+          "answer": "expect",
           "correct": true
         }
       ],
@@ -65,15 +65,15 @@
     {
       "title": "Hva gjør et msw(mock service worker)?",
       "answers": [
-        { "answere": "Et bibliotek for å styre hva utfallet av et api kall" },
+        { "answer": "Et bibliotek for å styre hva utfallet av et api kall" },
         {
-          "answere": "Brukes ved å lage en falsk api server"
+          "answer": "Brukes ved å lage en falsk api server"
         },
         {
-          "answere": "Hjelper å gjøre tester raskere"
+          "answer": "Hjelper å gjøre tester raskere"
         },
         {
-          "answere": "Alle de nevte svarene",
+          "answer": "Alle de nevte svarene",
           "correct": true
         }
       ],
