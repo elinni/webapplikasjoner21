@@ -31,4 +31,12 @@ export const people = [
     eye_color: 'yellow',
     gender: 'male',
   },
+  {  
+    id: '5',
+    name: 'Leia Organa',
+    height: '150',
+    hair_color: 'brown',
+    eye_color: 'brown',
+    gender: 'female',
+  },
 ]
